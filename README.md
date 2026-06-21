@@ -23,4 +23,16 @@ Step by Step approach:
 3. EDA : through multiple graphs, tried understanding the connections between variables.
 4. Feature Engineering
 5. Models Evaluated: Logistic Regression, Random Forest Classifier, Extra Trees Classifier. Top Model: Extra Trees Classifier
-6. 
+6. Model Applied and output generated
+   
+# Key Skills Demonstrated:
+Data Cleaning
+Exploratory Data Analysis
+Feature Engineering
+Machine Learning
+Ensemble Learning
+Cross Validation
+Model Evaluation
+Python (GenAI) 
+Scikit-Learn
+Prompt Engineering
