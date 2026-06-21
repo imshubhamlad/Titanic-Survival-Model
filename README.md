@@ -1,4 +1,4 @@
-# Titanic-Survival-Model
+e  # Titanic-Survival-Model
 
 Titanic Survival Prediction using Advanced Feature Engineering
 
@@ -22,14 +22,5 @@ Step by Step approach:
 2. Data cleansing
 3. EDA : through multiple graphs, tried understanding the connections between variables.
 4. Feature Engineering
-The following features were engineered to improve predictive performance:
-
-Feature	Purpose
-Title	Extract social status and age-related information from passenger names
-FamilySize	Measure group size travelling together
-IsAlone	Identify solo travellers
-Deck	Capture cabin location information
-TicketGroupSize	Identify passengers travelling under the same booking
-FarePerPerson	Normalize fare by travel group size
+5. Models Evaluated: Logistic Regression, Random Forest Classifier, Extra Trees Classifier. Top Model: Extra Trees Classifier
 6. 
-7. 
